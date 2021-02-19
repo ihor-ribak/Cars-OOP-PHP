@@ -1,9 +1,9 @@
 # Cars-OOP-PHP
 
-Implementation of the interface - FeatureInterface,
-abstract class - TransportAbstract,
-three classes - Auto, Bus, SportCar.
-When you run index.php we get:
+Реалізація інтерфейсу - FeatureInterface,
+абстрактного класу - TransportAbstract,
+три класи - Авто, Автобус, SportCar.
+Коли ми запускаємо index.php, отримуємо:
 
 Легковий атомобіль:
 Марка - Audi
